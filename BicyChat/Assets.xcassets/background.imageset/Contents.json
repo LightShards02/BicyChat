@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "shadow-cyclist-bikes-iphone-u953ou3uj0yi94do.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
